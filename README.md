@@ -1,2 +1,3 @@
-# color-schemes
-My personal color schemes
+# Color schemes
+
+My personal color schemes collection.
